@@ -1,7 +1,13 @@
+
 # 🪄 Wizard Tasks
 
-**Wizard Tasks** is a gamified **coding practice & study tracker** for a **90-day journey** to master **data structures, algorithms, and system design**.  
-Every completed coding problem or design case study is logged as a *magical task* — turning your study plan into a wizard’s quest log.  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-green)](https://wizard-tasks-gamma.vercel.app/)
+[![Built with React + Vite](https://img.shields.io/badge/React%20%2B%20Vite-Ready-blue)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-informational)](#license)
+
+**Wizard Tasks** is a gamified **coding practice & study tracker** for a **90-day journey** to master **data structures, algorithms, and system design**.
+
+🔗 **Live:** https://wizard-tasks-gamma.vercel.app/
 
 ---
 
@@ -21,6 +27,14 @@ Every completed coding problem or design case study is logged as a *magical task
 - Showcase React, state management, and UI design as a portfolio project  
 
 ---
+
+## 🚀 Deployment
+
+Hosted on **Vercel** — every push to `main` auto-deploys.
+
+- Prod: https://wizard-tasks-gamma.vercel.app/
+- To redeploy: `git push` to `main` (Vercel builds automatically)
+
 
 ## 🛠 Tech Stack
 - **Frontend:** React + Vite  
